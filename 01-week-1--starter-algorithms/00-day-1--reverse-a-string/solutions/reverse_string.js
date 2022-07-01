@@ -5,7 +5,7 @@ function reverseString(str) {
     reversed = reversed + str[i];
   }
 
-  return reversed;
+  return reversed;  // ih
 }
 
 console.log("Expecting: 'ih'");
